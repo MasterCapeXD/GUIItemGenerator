@@ -1,0 +1,29 @@
+enable-break: false
+min-amount: 3
+max-amount: 5
+random-respawn-time: [15, 30, 15]
+items:
+  1:
+    material: DIAMOND_SWORD
+    durability: 0
+    name: '&dAmazing Sword'
+    lore:
+    - '&7The generated sword by &6GUIItemGenerator'
+    - '&7Developer: &6MasterCapeXD'
+    random-enchants: true
+    enchantments:
+    - 'KNOCKBACK:2'
+    amount: 1
+    chance: 100
+  2:
+    material: DIAMOND_PICKAXE
+    durability: 0
+    name: '&dAmazing Pickaxe'
+    lore:
+    - '&7The generated pickaxe by &6GUIItemGenerator'
+    - '&7Developer: &6MasterCapeXD'
+    random-enchants: true
+    enchantments:
+    - 'DURABILITY:2'
+    amount: 1
+    chance: 50

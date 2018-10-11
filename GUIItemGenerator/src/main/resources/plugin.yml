@@ -1,0 +1,9 @@
+name: GUIItemGenerator
+main: me.mastercapexd.guiitemgenerator.GuiItemGeneratorPlugin
+version: 0.0.2-SNAPSHOT
+softdepend: [WorldGuard]
+author: MasterCapeXD
+
+commands:
+  guiitemgenerator:
+    aliases: [gig, ig, guig, guigenerator, guigen]

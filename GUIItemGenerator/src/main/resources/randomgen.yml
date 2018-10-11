@@ -1,0 +1,19 @@
+enable-break: false
+min-amount: 3
+max-amount: 5
+random-respawn-time: [15, 30, 15]
+items:
+  1:
+    material: APPLE
+    durability: 0
+    name: '&dPenPineAppleApplePen'
+    lore:
+    - '&7The generated apple by &6GUIItemGenerator'
+    - '&7Developer: &6MasterCapeXD'
+    amount: 5
+    chance: 100
+  2:
+    material: STICK
+    durability: 0
+    amount: 1
+    chance: 50

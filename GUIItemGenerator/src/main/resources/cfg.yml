@@ -1,0 +1,14 @@
+random-world-containers:
+  enabled: false
+  x-min: -1000
+  x-max: 1000
+  z-min: -1000
+  z-max: 1000
+  global-region-only: true
+  spawn-timer: 300
+  enabled-worlds:
+  - world
+# ContentType value 'random-respawn-time' will be ignored #
+# ContentType value 'enable-break' will be ignored #
+  content-type: randomgen
+debug-mode: false
